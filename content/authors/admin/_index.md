@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student in Computer Science
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Ph.D. student in the Computer Science department at Princeton University. My advisor is <a href="https://people.cs.uchicago.edu/~feamster/">Nick Feamster</a>. Generally speaking, I'm interested in Internet measurements, privacy, and censorship. 
+bio: Austin Hounsel is a Ph.D. student in the Computer Science department at Princeton University. He is advised by <a href="https://people.cs.uchicago.edu/~feamster/">Nick Feamster</a>. Generally speaking, he is interested in Internet measurements, privacy, and censorship. 
 
 interests:
 # - Artificial Intelligence
@@ -67,4 +67,4 @@ email: ""
 # - Visitors
 ---
 
-I'm a Ph.D. student in the Computer Science department at Princeton University. My advisor is <a href="https://people.cs.uchicago.edu/~feamster/">Nick Feamster</a>. Generally speaking, I'm interested in Internet measurements, privacy, and censorship. 
+I'm a Ph.D. student in the Computer Science department at Princeton University. My advisor is <a href="https://people.cs.uchicago.edu/~feamster/">Nick Feamster</a>. Generally speaking, I'm interested in Internet measurements, privacy, and censorship. My CV is available upon request.
