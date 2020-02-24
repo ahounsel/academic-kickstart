@@ -18,7 +18,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: "8th USENIX Workshop on Free and Open Communications on the
 Internet"
-publication_short: "FOCI 18"
+publication_short: "FOCI '18"
 
 abstract: "Internet censorship measurements rely on lists of websites to be tested, or “block lists” that are curated by third parties. Unfortunately, many of these lists are not public, and those that are tend to focus on a small group of topics, leaving other types of sites and services untested. To increase and diversify the set of sites on existing block lists, we use natural language processing and search engines to automatically discover a much wider range of websites that are censored in China. Using these techniques, we create a list of 1125 websites outside the Alexa Top 1,000 that cover Chinese politics, minority human rights organizations, oppressed religions, and more. Importantly, none of the sites we discover are present on the current largest block list. The list that we develop not only vastly expands the set of sites that current Internet measurement tools can test, but it also deepens our understanding of the nature of content that is censored in China. We have released both this new block list and the code for generating it."
 

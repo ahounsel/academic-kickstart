@@ -13,12 +13,12 @@ publishDate: 2020-02-24
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "47th Research Conference on 
 Communications, Information and Internet Policy"
-publication_short: "TPRC"
+publication_short: "TPRC 47"
 
 abstract: "Internet communication relies on the Domain Name System (DNS), which maps a human-readable Internet destination to an IP address. A recent proposal for transmitting DNS over HTTPS (DoH) enhances client privacy by tunneling DNS over secure HTTP (HTTPS). In this paper, we explore the policy implications of consolidated DoH by systematically analyzing the marketplace, measure its performance effects, and investigate how it affects the different stakeholders, including consumers. We enumerate the agents in the marketplace as well as their market incentives. We then examine the performance of DoH through client-based measurements compare unencrypted DNS with DoH. As DoH deployments change the competitive landscape of the market, we explore their effect on other operators, ISPs, and broadband access at the last mile, as well as the potential regulatory and policy implications of DoH deployments."
 
